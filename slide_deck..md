@@ -104,11 +104,12 @@ This data set contains 113937 loans with 81 variables on each loan, for the purp
     [NbConvertApp] Making directory slide_deck._files
     [NbConvertApp] Making directory slide_deck._files
     [NbConvertApp] Making directory slide_deck._files
-    [NbConvertApp] Writing 2803 bytes to slide_deck..md
+    [NbConvertApp] Making directory slide_deck._files
+    [NbConvertApp] Writing 5273 bytes to slide_deck..md
     
 
     [NbConvertApp] Converting notebook slide_deck..ipynb to slides
-    [NbConvertApp] Writing 787533 bytes to slide_deck..slides.html
+    [NbConvertApp] Writing 810816 bytes to slide_deck..slides.html
     [NbConvertApp] Redirecting reveal.js requests to https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0
     Traceback (most recent call last):
       File "C:\Users\nadaa\anaconda3\anaconda\Scripts\jupyter-nbconvert-script.py", line 10, in <module>
